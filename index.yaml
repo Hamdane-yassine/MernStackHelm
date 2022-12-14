@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mernstack-exam-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-14T19:29:28.51729+01:00"
+    description: A Helm chart for mern stack app deployed in kubernetes
+    digest: abb4a57310a749abfe3a80fee0a5b620e87a9701e667b239150dda36dc0ca550
+    name: mernstack-exam-app
+    type: application
+    urls:
+    - https://hamdane-yassine.github.io/MernStackHelm/mernstack-exam-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-14T19:29:28.5150744+01:00"
